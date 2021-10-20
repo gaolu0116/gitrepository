@@ -5,5 +5,6 @@ class TestJava{
 		int a = 1;
 		System.out.print("Hello World!!!!");
 		System.out.print("Hello World!!!!");
+		System.out.print("Hello World!!!!");
 	}
 }
